@@ -1,0 +1,4 @@
+torch
+torchvision
+pillow
+transformers   # only needed for pretrained_demo.py
